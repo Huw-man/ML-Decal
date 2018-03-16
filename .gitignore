@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+C:\Users\Newman Hu\Berkeley Google Drive\ML decal\Machine-Learning-Decal-Spring-2018\Lecture 2\GlobalLandTemperaturesByCity.csv
+
 # Distribution / packaging
 .Python
 env/
